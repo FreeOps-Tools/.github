@@ -3,7 +3,7 @@
 We are an Open Source community aimed at building an open-source tools, also encouraging and promoting collaboration & communication.
 Learn more about what we are building [at our website](https://)
 
-## Our first tool
+## Our first tool: LogIQ
 
 ### What is LogIQ?🤔
 
