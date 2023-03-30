@@ -1,27 +1,17 @@
-## Hi there 👋
+ # Hi there 👋 Welcome to FreeOps
 
-<!--
+FreeOps is an open-source community focused on creating DevOps tools using the power of open-source software. We believe that DevOps should be accessible to all developers, regardless of their background or experience level, and that open-source tools are the best way to achieve this goal.
 
-**Here are some ideas to get you started:**
+Our community is passionate about creating innovative and useful DevOps tools that make the development process more efficient, cost-effective, and collaborative. We believe that open-source software empowers developers to learn from each other, share knowledge, and build better products together.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Our first project, LogIQ, is an open-source web performance monitoring tool that provides comprehensive insights into website performance on both desktop and mobile devices. With LogIQ, website owners and developers can gain deep insights into their website's performance and take actions to improve the speed and user experience.
 
+We welcome developers, designers, and DevOps enthusiasts of all skill levels to join our community, contribute to our projects, and collaborate with like-minded individuals to create a better DevOps ecosystem.
 ## About
 
 We are an Open Source community aimed at building an open-source tools, also encouraging and promoting collaboration & communication.
-Learn more about what we are building [at our website](https://)
-
-## Our first tool: LogIQ
-
-### What is LogIQ?🤔
-
-**LogIQ** is an open-source web performance monitoring tool that provides a comprehensive analysis of website performance on both desktop and mobile devices. With LogIQ, website owners and developers can gain deep insights into their website's performance and take actions to improve the speed and user experience.
+Learn more about what we are building [at our website](https://devlogiq.netlify.app)
 
 ## Wanna be part of the community?
-
-- [Join our Discord community here](https://discord.gg/WXKmB2sbz5)
+  - [Join our Discord community here](https://discord.gg/WXKmB2sbz5)
+  - Create an issue if you wish to join github organization, you'll get an invite.
