@@ -14,5 +14,5 @@ Our community is passionate about creating innovative and useful DevOps tools th
 We welcome developers, designers, and DevOps enthusiasts of all skill levels to join our community, contribute to our projects, and collaborate with like-minded individuals to create a better DevOps ecosystem.
 
 ## Wanna be part of the community?
-  - Join our Discord community [here](https://discord.gg/WXKmB2sbz5)
+  - Join our Discord community [here](https://discord.gg/Q6cH6pr2N6)
   - Create an issue if you wish to join github organization, you'll get an invite.
