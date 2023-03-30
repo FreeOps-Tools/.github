@@ -4,7 +4,7 @@
 
 Our community is passionate about creating innovative and useful DevOps tools that make the development process more efficient, cost-effective, and collaborative. We believe that open-source software empowers developers to learn from each other, share knowledge, and build better products together.
 
-Our first project, LogIQ, is an open-source web performance monitoring tool that provides comprehensive insights into website performance on both desktop and mobile devices. With LogIQ, website owners and developers can gain deep insights into their website's performance and take actions to improve the speed and user experience.
+Our first project is LogIQ. **LogIQ** is an open-source web performance monitoring tool that provides comprehensive insights into website performance on both desktop and mobile devices. With LogIQ, website owners and developers can gain deep insights into their website's performance and take actions to improve the speed and user experience.
 
 We welcome developers, designers, and DevOps enthusiasts of all skill levels to join our community, contribute to our projects, and collaborate with like-minded individuals to create a better DevOps ecosystem.
 ## About
