@@ -2,7 +2,7 @@
 
 <p align="center"><strong>FreeOps</strong> is an open-source community focused on creating DevOps tools using the power of open-source. We believe that DevOps should be accessible to all developers, regardless of their background or experience level, and that open-source tools are the best way to achieve this goal.</p>
 
-<p align="center">We are an Open Source community aimed at building open-source tools, as well as encouraging and promoting collaboration & communication. Learn more about what we are building <a href="https://logiq.netlify.app">at our website</a>.</p>
+<p align="center">We are an Open Source community aimed at building open-source tools, as well as encouraging and promoting collaboration & communication. Learn more about what we are building <a href="https://freeops.netlify.app/">at our website</a>.</p>
 
 <p align="center">Our community is passionate about creating innovative and useful DevOps tools that make the development process more efficient, cost-effective, and collaborative. We believe that open-source software empowers developers to learn from each other, share knowledge, and build better products together.</p>
 
